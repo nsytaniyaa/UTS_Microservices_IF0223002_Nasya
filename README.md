@@ -30,5 +30,5 @@ Proyek ini mengimplementasikan Message Queue menggunakan **ActiveMQ** dengan pro
 ### Dokumentasi Implementasi
 Video demonstrasi skenario pengujian dapat diakses melalui tautan di bawah ini:
 
-* **Video Demonstrasi Project**: [Klik di sini untuk menonton Video](on progress)
+* **Video Demonstrasi Project**: ([Klik di sini untuk menonton Video](https://drive.google.com/file/d/1vQLlLzUNAWcsN5bgeGfrkerIQCL8MCww/view?usp=sharing))
 
